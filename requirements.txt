@@ -1,0 +1,1 @@
+pip install fastapi uvicorn facenet-pytorch pillow numpy torch
