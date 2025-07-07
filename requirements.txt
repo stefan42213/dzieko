@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-facenet-pytorch
-pillow
-numpy
-torch
-setuptools
-pip
-
